@@ -1,6 +1,6 @@
 # Colly
 
-Lightning Fast and Elegant Scraping Framework for Gophers
+Lightning Fast and Elegant Scraping Framework for Gophers.
 
 Colly provides a clean interface to write any kind of crawler/scraper/spider.
 
