@@ -1,4 +1,4 @@
-# Colly
+# Colly.
 
 Lightning Fast and Elegant Scraping Framework for Gophers.
 
